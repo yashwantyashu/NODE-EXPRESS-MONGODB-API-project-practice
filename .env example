@@ -1,0 +1,5 @@
+MONGO_URL = mongodb+srv://admin:password0987@yashpracticeapi.7kpkx83.mongodb.net/Games-API?retryWrites=true&w=majority&appName=YashPracticeAPI
+PORT = 3000
+NODE_ENV = development
+FRONTEND = 'http://example.com'
+//everytime we change env we should restart the server
